@@ -1,4 +1,4 @@
-# OpenShit custom regstry
+# OpenShift custom regstry
 
 This is a "cookbook" for configuring a custom image registry on OpenShift that can be used instead of an integrated or external registry.
 
